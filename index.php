@@ -40,7 +40,7 @@
                         <td><?php echo $usuario["nome_usuario"] ?></td>
                         <td><?php echo $usuario["telefone"] ?></td>   
                         <td>
-                            <a href="public/cadastro_animais.php?id=<?php echo $usuario["id_cliente"] ?>">Cadastrar animal</a>
+                            <a href="public/formulario_cadastro_animais.php?id=<?php echo $usuario["id_cliente"] ?>">Cadastrar animal</a>
                             <a href="public/animais_cliente.php?id=<?php echo $usuario["id_cliente"] ?>">Verificar animais do usuário</a>
                         </td>           
                     </tr>
