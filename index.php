@@ -17,6 +17,8 @@
     <button type="submit">Cadastrar</button>
 </form>
 
+<a href="public/listagem_animais.php">Verificar todos os animais</a>
+
     <table>
                 <tr>
                     <th>ID</th>
