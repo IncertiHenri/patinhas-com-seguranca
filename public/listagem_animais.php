@@ -37,6 +37,7 @@
                         <td><?php echo $animal["nome_usuario"] ?></td> 
                         <td>
                             <a href="formulario_editar_animais.php?id=<?php echo $animal["id_animal"] ?>">Editar animal</a>
+                            <a href="excluir_animal.php?id=<?php echo $animal["id_animal"] ?>">Excluir animal</a>
                         </td>             
                     </tr>
     <?php } ?>
