@@ -18,6 +18,7 @@
 </form>
 
 <a href="public/listagem_animais.php">Verificar todos os animais</a>
+<a href="public/listagem_geral.php">Verificar todos os usuários e clientes</a>
 
     <table>
                 <tr>
