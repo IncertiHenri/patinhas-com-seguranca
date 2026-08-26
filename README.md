@@ -9,3 +9,33 @@ Desenvolver um sistema simples para o cadastro de animais e usuários, que permi
 ## Desenvolvimento
 
 Utilizamos o XAMPP, VS code e o GitHub. 
+
+## Funcionalidades
+
+CRUD de Clientes
+
+O sistema deverá permitir:
+
+Cadastrar clientes;
+Listar clientes;
+Editar clientes;
+Excluir clientes;
+Visualizar os dados de um cliente.
+CRUD de Animais
+
+O sistema deverá permitir:
+
+Cadastrar animais;
+Listar animais;
+Editar animais;
+Excluir animais;
+Associar um animal a um cliente;
+Exibir o nome do responsável pelo animal.
+
+## Entrega
+
+Um sistema aplicando um CRUD simples e eficiente, contendo tudo o que foi solicitado.
+
+## Autor
+
+- Henrique Cesar Incerti

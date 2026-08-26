@@ -34,7 +34,7 @@
                         <td><?php echo $animal["especie"] ?></td>
                         <td><?php echo $animal["raca"] ?></td>
                         <td><?php echo $animal["idade"] ?></td>
-                        <td><?php echo $animal["nome_usuario"] ?></td> 
+                        <td><?php echo $animal["nome_usuario"] ?></td>
                         <td>
                             <a href="formulario_editar_animais.php?id=<?php echo $animal["id_animal"] ?>">Editar animal</a>
                             <a href="excluir_animal.php?id=<?php echo $animal["id_animal"] ?>">Excluir animal</a>
