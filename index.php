@@ -44,6 +44,7 @@
                         <td>
                             <a href="public/formulario_cadastro_animais.php?id=<?php echo $usuario["id_cliente"] ?>">Cadastrar animal</a>
                             <a href="public/animais_cliente.php?id=<?php echo $usuario["id_cliente"] ?>">Verificar animais do usuário</a>
+                            <a href="public/formulario_editar_usuario.php?id=<?php echo $usuario["id_cliente"] ?>">Editar usuário</a>
                         </td>           
                     </tr>
     <?php } ?>
